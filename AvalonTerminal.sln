@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvalonTerminal", "AvalonTer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvalonTerminal.Tests", "AvalonTerminal.Tests\AvalonTerminal.Tests.csproj", "{C003DD2D-F838-44BF-9867-36773535881B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvalonTerminal.Sample", "AvalonTerminal.Sample\AvalonTerminal.Sample.csproj", "{0DD05371-FECB-4D02-B4FD-C147988E1B7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C003DD2D-F838-44BF-9867-36773535881B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C003DD2D-F838-44BF-9867-36773535881B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C003DD2D-F838-44BF-9867-36773535881B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD05371-FECB-4D02-B4FD-C147988E1B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD05371-FECB-4D02-B4FD-C147988E1B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD05371-FECB-4D02-B4FD-C147988E1B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD05371-FECB-4D02-B4FD-C147988E1B7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
